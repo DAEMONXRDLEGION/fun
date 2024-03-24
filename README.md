@@ -21,3 +21,5 @@ To run the Fun project, follow these steps:
 3. git clone https://github.com/DAEMONXRDLEGION/fun.git
 4. cd fun
 5. python fun.py
+
+<a href="https://imgbb.host/images/2viXc.jpeg"><img src="https://imgbb.host/images/2viXc.jpeg" alt="Your Sinister Image"></a>
