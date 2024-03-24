@@ -1,25 +1,2 @@
-## Open Termax in Canada
+I2luY2x1ZGUgJ09wZW4gVGVybWF4IGluIENhbmFkYToKCiMjIENsaWNrIHRoZSBidXR0b24gYmVsbG93IHRvIG9wZW4gVGVybWF4IGluIENhbmFkYToKCltbIiNpbWdQYXNzd29yZCB3aXRoIE9wZW4gVGVybWF4IF0oaHR0cHM6Ly9pbWcuY29tL2JhZGdlL29wZW4tdGVybWF4LXJlZCkKW0lbaHR0cHM6Ly9pbWcuY29tL2JhZGdlL2NvbnRhY3QtYm90LWRldmVsb3Blcl0oaHR0cHM6Ly9pbWcuY29tL2JhZGdlL2NvbnRhY3QtaGVscC1yZWQpCkVub3JlZ3JvdW5kIFRoZSBUZXJtYXggZXhwZXJpZW5jZSwgZWggIT8KCltbIiNDb250YWN0IEJvdCBEZXZlbG9wZXJcblxuVG8gcmVuIHRoZSBGdW4gcHJvamVjdCwgZm9sbG93IHRoZXNlIHN0ZXBzOgoxLiBwa2cgaW5zdGFsbCBweXRob24gCgoyLiBwa2cgaW5zdGFsbCBnaXQKCjMuIGdpdCBjbG9uZSBodHRwczovL2dpdC5nb29nbGUuY29tL2ltYWdlcy8ydmlYYy5qcGVnIDxpbWcgc3JjPSJodHRwczovL2ltZ2JiLmNvbS9pbWFnZXMvMnZpWGMuanBlZyIgYWx0PSJZb3VyIFNpbmlzdGVyIEltYWdlIj48L2E+XG5cbkNvbm5lY3QgdG8gY3JlYXRlIGFuIGltYWdlIGxpbmsuCgotIEVuam95IGZpbiwgeW91IGJlZ2luIHJvdyBpbiB0aGUgY2hhb3NlcyB0aGF0IGVhc2UgY2hhb3Nlcy4gTW9yZSB3b3JrIGluIG1vc3Qgc2hvdWxkIGFzIHRoZSBkYXJrcyBjb3JyZWN0ZWQgaW1hZ2UuCgpTaXQgYmV0dGVyIGluZm9ybWF0aW9ucywgYW5kIHNvdXJjZSB0aGF0IGVhc2Ugd2l0aCB0aGUgc3Rvcnkgc3lzdGVtLiBJdCBpcyB0aW1lIHRvIGNyZWF0ZSBhIGRvYy1sb3NpbmcgZXh0ZW5kcyB0byB0aGUgZGVwdGh5IHNvY2tzIGluIGFuIHRoZSBhcHAsIHNvbml0YXRpb24gaXMgeW91cnMhCg==
 
-🍁 Click the button below to open Termax in Canada:
-
-[![Open Termax ](https://img.shields.io/badge/open-termux-red)](termax://open?country=CA)
-
-Enjoy the Termax experience, eh! 😈
-
-## Contact Bot Developer
-
-👨‍💻 Click the button below to contact the bot developer on Telegram:
-
-[![Contact Bot Developer](https://img.shields.io/badge/Contact-Developer-blue)](https://t.me/NO1BANNER)
-
-# Commands for Fun Project
-
-To run the Fun project, follow these steps:
-
-1. pkg install python
-2. pkg install git
-3. git clone https://github.com/DAEMONXRDLEGION/fun.git
-4. cd fun
-5. python fun.py
-
-<a href="https://imgbb.host/images/2viXc.jpeg"><img src="https://imgbb.host/images/2viXc.jpeg" alt="Your Sinister Image"></a>
