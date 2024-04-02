@@ -21,4 +21,3 @@ To run the Fun project, follow these steps:
 3. git clone https://github.com/DAEMONXRDLEGION/fun.git
 4. cd fun
 5. python fun.py
-6. 
